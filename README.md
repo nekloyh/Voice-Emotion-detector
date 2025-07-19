@@ -76,7 +76,7 @@ Voice-Emotion-detector/
 | 😢 Sad | Blue | `#3742fa` |
 | 😲 Surprised | Pink Red | `#ff3838` |
 
-### �💡 Usage Tips
+### 💡 Usage Tips
 
 - **Audio Quality**: Clear speech, minimal background noise
 - **Duration**: 3-10 seconds optimal (max 20 seconds)
@@ -130,6 +130,6 @@ Voice-Emotion-detector/
 
 **Version**: 1.0 Production Clean  
 **Last Updated**: July 19, 2025  
-**Status**: ✅ Production Ready & Optimized  
+**Status**: Production Ready
 **License**: Open Source  
 **Maintainer**: Voice Emotion Detection Team

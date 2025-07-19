@@ -1,5 +1,5 @@
 """
-Voice Emotion Detector v2.0 - Clean Production Version
+Voice Emotion Detector v1.0 - Clean Production Version
 Simple, reliable voice emotion detection using Wav2Vec2
 Focus: Core functionality, performance, and reliability
 """

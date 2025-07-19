@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Voice Emotion Detector v2.0 - Clean Production Launcher
+Voice Emotion Detector v1.0 - Clean Production Launcher
 Professional launcher with comprehensive health checks
 """
 
@@ -26,7 +26,7 @@ class EmotionDetectorLauncher:
     def print_header(self):
         """Print application header"""
         print("=" * 60)
-        print("🎭 Voice Emotion Detector v2.0 - Clean Production")
+        print("🎭 Voice Emotion Detector")
         print("   AI-Powered Emotion Recognition from Voice")
         print("=" * 60)
         print()

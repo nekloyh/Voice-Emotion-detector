@@ -1,4 +1,4 @@
-# 🎭 Voice Emotion Detector v2.0
+# 🎭 Voice Emotion Detector v1.0
 
 ## Clean Production-Ready AI-Powered Emotion Recognition
 
@@ -128,7 +128,7 @@ Voice-Emotion-detector/
 
 ---
 
-**Version**: 2.0 Production Clean  
+**Version**: 1.0 Production Clean  
 **Last Updated**: July 19, 2025  
 **Status**: ✅ Production Ready & Optimized  
 **License**: Open Source  
